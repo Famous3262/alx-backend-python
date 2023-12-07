@@ -3,6 +3,7 @@
 argument and return their sum as a float
 """
 
+
 def add(a: float, b: float) -> float:
     """ add the two floats """
     return a + b
